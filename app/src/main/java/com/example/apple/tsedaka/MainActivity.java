@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
 
     // modification pour tester ajout de commit
 
-
+    // encore une modif juste pour formation git
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
