@@ -85,6 +85,8 @@ public class MainActivity extends AppCompatActivity {
     int piecemoved;
     MediaPlayer mPlayer;
 
+    // modification pour tester ajout de commit
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
