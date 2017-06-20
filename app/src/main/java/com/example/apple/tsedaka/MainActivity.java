@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
     Button paypal;
     Boolean pieceIsAlreadyPointed = false;
 
-
+    //essai pour git
 
     int piecemoved;
     MediaPlayer mPlayer;
