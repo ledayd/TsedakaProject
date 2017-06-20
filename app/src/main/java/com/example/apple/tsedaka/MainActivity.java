@@ -1,5 +1,5 @@
 package com.example.apple.tsedaka;
-
+//test git hub
 import com.paypal.android.MEP.CheckoutButton;
 import com.paypal.android.MEP.PayPal;
 import com.paypal.android.MEP.PayPalReceiverDetails;
@@ -40,6 +40,9 @@ import static java.lang.StrictMath.floor;
 import static java.security.AccessController.getContext;
 
 public class MainActivity extends AppCompatActivity {
+
+
+    // test de synchro github
 
     public static final String PREFS_FILE_NAME = "myPrefs";
     protected static final String PREFS_TOTAL_AMOUNT = "total_amount";
