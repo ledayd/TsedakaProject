@@ -1,5 +1,5 @@
 package com.example.apple.tsedaka;
-//test git hub
+// test github
 import com.paypal.android.MEP.CheckoutButton;
 import com.paypal.android.MEP.PayPal;
 import com.paypal.android.MEP.PayPalReceiverDetails;
